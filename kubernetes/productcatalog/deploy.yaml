@@ -31,7 +31,7 @@ spec:
       serviceAccountName: opentelemetry-demo
       containers:
         - name: productcatalogservice
-          image: xilinx19/product-catalog:19784793184
+          image: xilinx19/product-catalog:19784822725
           imagePullPolicy: IfNotPresent
           ports:
             
